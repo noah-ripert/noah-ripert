@@ -22,5 +22,5 @@ I am currently in my **final year of a Bachelor's degree (L3)**, actively prepar
 ---
 
 ## 📫 Get in touch
-- 💼 **LinkedIn:** [noah-ripert]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/noah-ripert-209588256/]
 - ✉️ **Email:** [noahripert@proton.me]
