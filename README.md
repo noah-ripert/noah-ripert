@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Noah
 
-<!--
-**noah-ripert/noah-ripert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 3rd-year Computer Science Student
 
-Here are some ideas to get you started:
+I am currently in my **final year of a Bachelor's degree (L3)**, actively preparing for a **Master's degree**. I thrive at the intersection of software development and complex data analysis, with a strong commitment to building efficient and impactful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Core Technical Strengths
+
+* **💻 Software Engineering:** Solid foundation in **Python**, **Java**, and **C**. I focus on writing **clean, modular code** and understanding underlying algorithmic complexity.
+* **🤖 AI & Machine Learning:** Deeply interested in the potential of **Artificial Intelligence**. I am currently exploring neural networks and predictive modeling to solve real-world problems.
+* **🛠️ Developer Tools:** Daily user of **Linux (Bash)**, **Git/GitHub** for version control, and **Docker** for environment reproducibility.
+
+---
+
+## ⚡ Quick Facts
+- 🌱 **Currently Learning:** Deep Learning architectures (CNNs/RNNs) and cloud computing basics.
+- 💬 **Collaborative Mindset:** I value Open Source contributions and team-based development.
+- 🎯 **Goal:** Joining an ambitious Master's program to specialize in [AI-driven Biology / Advanced Software Systems].
+
+---
+
+## 📫 Get in touch
+- 💼 **LinkedIn:** [noah-ripert]
+- ✉️ **Email:** [noahripert@proton.me]
